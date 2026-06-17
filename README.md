@@ -17,25 +17,30 @@ A hosted identity verification platform that enables third-party applications to
 
 ---
 
-## Live Demo
+## Live Demonstration
 
-### Customer Onboarding System (COS)
+A live demonstration environment is available to showcase how Apprain KYC can be integrated into a real-world customer journey.
 
-Experience the complete onboarding journey using our demonstration environment:
-
-**Customer Journey**
+### KYC Integration Demonstration
 
 ```text
 http://cos.apprain.ca
 ```
 
-This demo showcases:
+This demonstration illustrates one possible implementation of Apprain KYC within a customer onboarding process.
 
-* Customer onboarding
+The demonstration showcases:
+
+* Customer registration and onboarding
 * OTP verification
-* KYC initiation
+* KYC session initiation
 * Hosted identity verification
+* Identity document capture
+* Selfie verification
+* Retrieval of KYC verification results
 * Profile completion workflow
+
+> The Customer Onboarding System (COS) is provided solely as an example implementation to demonstrate how Apprain KYC can be embedded into business applications. It is not part of the Apprain KYC product offering.
 
 Administrative demonstration access is available upon request.
 
