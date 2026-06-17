@@ -21,12 +21,6 @@ A hosted identity verification platform that enables third-party applications to
 
 The sandbox environment is available for integration testing and evaluation purposes.
 
-### Base URL
-
-```text
-https://kyc.apprain.ca
-```
-
 Sandbox credentials are provided upon request.
 
 For sandbox access, please contact:
