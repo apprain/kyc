@@ -17,6 +17,30 @@ A hosted identity verification platform that enables third-party applications to
 
 ---
 
+## Live Demo
+
+### Customer Onboarding System (COS)
+
+Experience the complete onboarding journey using our demonstration environment:
+
+**Customer Journey**
+
+```text
+http://cos.apprain.ca
+```
+
+This demo showcases:
+
+* Customer onboarding
+* OTP verification
+* KYC initiation
+* Hosted identity verification
+* Profile completion workflow
+
+Administrative demonstration access is available upon request.
+
+---
+
 ## Sandbox Access
 
 The sandbox environment is available for integration testing and evaluation purposes.
@@ -91,30 +115,6 @@ curl --location --request GET \
 * [Code Samples](docs/code-samples.md)
 * [Mobile Integration](docs/mobile-integration.md)
 * [Security Guide](docs/security.md)
-
----
-
-## Live Demo
-
-### Customer Onboarding System (COS)
-
-Experience the complete onboarding journey using our demonstration environment:
-
-**Customer Journey**
-
-```text
-http://cos.apprain.ca
-```
-
-This demo showcases:
-
-* Customer onboarding
-* OTP verification
-* KYC initiation
-* Hosted identity verification
-* Profile completion workflow
-
-Administrative demonstration access is available upon request.
 
 ---
 
